@@ -1,1 +1,1 @@
-![Paulo](https://github-readme-stats.vercel.app/api?username=pauloosilas&show_icons=true&theme=radical)
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloosilas&show_icons=true&theme=transparent)
